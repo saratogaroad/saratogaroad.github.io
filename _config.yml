@@ -9,14 +9,14 @@ sass:
 url: saratogaroad.github.io
 disqus_shortname: 
 facebook_username:
-twitter_username: #saratogaroad
-linkedin_username: "#"
+twitter_username: "#saratogaroad"
+linkedin_username: 
 instagram_username:
 pinterest_username:
 flickr_username:
-github_username:  "#"
+github_username:  
 feed_icon: rss
-email: "#"
+email: 
 gems: [jekyll-paginate]
 paginate_path: "/page/:num/"
 paginate: 5
